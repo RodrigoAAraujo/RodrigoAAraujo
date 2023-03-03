@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Rodriog's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Rodriog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo&show_icons=true&theme=radical)
 
 
 💻 Tech Stack:
