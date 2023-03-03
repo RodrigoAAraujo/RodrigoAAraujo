@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![Rodriog's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 💻 Tech Stack:
 CSS3 HTML5 Java JavaScript Markdown Python TypeScript Netlify Heroku Vercel Angular Bootstrap Express.js Flask Insomnia JWT NPM NestJS NodeJS React React Router SASS Spring Styled Components Apache MicrosoftSQLServer MongoDB MySQL Postgres SQLite Adobe Photoshop Adobe Premiere Pro Adobe XD Figma Pandas Docker ESLint Notion Postman Swagger Trello
