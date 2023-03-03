@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-antunes-araujo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/rodrigo-antunes-araujo/)
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 💻 Tech Stack:
 CSS3 HTML5 Java JavaScript Markdown Python TypeScript Netlify Heroku Vercel Angular Bootstrap Express.js Flask Insomnia JWT NPM NestJS NodeJS React React Router SASS Spring Styled Components Apache MicrosoftSQLServer MongoDB MySQL Postgres SQLite Adobe Photoshop Adobe Premiere Pro Adobe XD Figma Pandas Docker ESLint Notion Postman Swagger Trello
