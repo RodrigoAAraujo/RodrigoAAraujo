@@ -17,3 +17,6 @@ YouTube LinkedIn Instagram Medium Twitter Discord
 
 💻 Tech Stack:
 CSS3 HTML5 Java JavaScript Markdown Python TypeScript Netlify Heroku Vercel Angular Bootstrap Express.js Flask Insomnia JWT NPM NestJS NodeJS React React Router SASS Spring Styled Components Apache MicrosoftSQLServer MongoDB MySQL Postgres SQLite Adobe Photoshop Adobe Premiere Pro Adobe XD Figma Pandas Docker ESLint Notion Postman Swagger Trello
+
+
+![snake gif](https://github.com/RodrigoAAraujo/RodrigoAAraujo/blob/output/github-contribution-grid-snake.svg)
