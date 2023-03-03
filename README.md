@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 🌐 Socials:
-YouTube LinkedIn Instagram Medium Twitter Discord
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-antunes-araujo/)
 
 💻 Tech Stack:
 CSS3 HTML5 Java JavaScript Markdown Python TypeScript Netlify Heroku Vercel Angular Bootstrap Express.js Flask Insomnia JWT NPM NestJS NodeJS React React Router SASS Spring Styled Components Apache MicrosoftSQLServer MongoDB MySQL Postgres SQLite Adobe Photoshop Adobe Premiere Pro Adobe XD Figma Pandas Docker ESLint Notion Postman Swagger Trello
