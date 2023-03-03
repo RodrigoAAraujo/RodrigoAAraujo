@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**RodrigoAAraujo/RodrigoAAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+🌐 Socials:
+YouTube LinkedIn Instagram Medium Twitter Discord
+
+💻 Tech Stack:
+CSS3 HTML5 Java JavaScript Markdown Python TypeScript Netlify Heroku Vercel Angular Bootstrap Express.js Flask Insomnia JWT NPM NestJS NodeJS React React Router SASS Spring Styled Components Apache MicrosoftSQLServer MongoDB MySQL Postgres SQLite Adobe Photoshop Adobe Premiere Pro Adobe XD Figma Pandas Docker ESLint Notion Postman Swagger Trello
