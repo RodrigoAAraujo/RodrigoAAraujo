@@ -71,8 +71,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg
 <div align="center">
     <img height="300em" src="https://streak-stats.demolab.com/?user=RodrigoAAraujo&theme=dark"/>
     <div>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAAraujo&theme=gruvbox&layout=compact"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAAraujo&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAAraujo&layout=compact&theme=gruvbox"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAAraujo&show_icons=true&theme=gruvbox"/>
     </div>
     <br/><br/>
     <img width="100%" src="https://github.com/RodrigoAAraujo/RodrigoAAraujo/blob/output/github-contribution-grid-snake.svg"/>
