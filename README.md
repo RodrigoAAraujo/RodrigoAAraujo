@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on learning as many technologies as I can
+- 🔭 I’m currently focused on openning my possibilities in IT
 - 🌱 I’m currently learning Web and Mobile Development
 - 💬 Talk to me about Tech, International News, Football and Life
 
