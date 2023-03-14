@@ -6,10 +6,18 @@
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-antunes-araujo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/rodrigo-antunes-araujo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrdkfSCcqnQcRVbVcLCpZhHPttFwvbmGzsqLWpHcWDVJDLGCVXnMmfSlMkwhWSsQWpdJMg)
-
+<a href="https://www.linkedin.com/in/rodrigo-antunes-araujo/" target="_blank">
+    <img align="left" alt="Linkedin" width="30px" title="Linkedin" 
+    src="https://img.icons8.com/fluency/240/000000/linkedin.png" />
+</a>
+<a href="mailto:rodrigo.teth@gmail.com" target="_blank">
+    <img align="left" alt="Gmail" width="30px" title="Gmail" 
+    src="https://img.icons8.com/fluent/240/000000/gmail.png" />
+</a>
+<a href="https://www.instagram.com/rodrigo.a_araujo" target="_blank">
+    <img alt="Instagram" width="30px" title="Instagram" 
+    src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+</a>
 
 ---
 
@@ -61,9 +69,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg
 ### Stats
 
 <div align="center">
-    <img width="650px" src="https://streak-stats.demolab.com/?user=RodrigoAAraujo&theme=dark"/>
-    <img width="650px" src="https://github-readme-stats.vercel.app/api?username=RodrigoAAraujo&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
-    <img width="650px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAAraujo&theme=gruvbox&layout=compact"/>
+    <img height="300em" src="https://streak-stats.demolab.com/?user=RodrigoAAraujo&theme=dark"/>
+    <div>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAAraujo&theme=gruvbox&layout=compact"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAAraujo&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true"/>
+    </div>
     <br/><br/>
     <img width="100%" src="https://github.com/RodrigoAAraujo/RodrigoAAraujo/blob/output/github-contribution-grid-snake.svg"/>
 </div>
