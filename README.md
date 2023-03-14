@@ -62,4 +62,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoAAraujo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAAraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RodrigoAAraujo)](https://git.io/streak-stats)
 ![snake gif](https://github.com/RodrigoAAraujo/RodrigoAAraujo/blob/output/github-contribution-grid-snake.svg)
+
