@@ -74,7 +74,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAAraujo&layout=compact&theme=gruvbox"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAAraujo&show_icons=true&theme=gruvbox"/>
     </div>
-    <br/><br/>
-    <img width="100%" src="https://github.com/RodrigoAAraujo/RodrigoAAraujo/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
